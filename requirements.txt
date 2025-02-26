@@ -1,0 +1,7 @@
+pdfplumber
+schedule
+plotly
+openai
+streamlit
+pandas
+PyPDF2
